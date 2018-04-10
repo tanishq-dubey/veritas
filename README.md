@@ -1,3 +1,5 @@
+# UPDATE: The main repo is now at: https://github.com/veritas-verilog/veritas
+
 # veritas
 A Package Manager for Verilog Projects
 
